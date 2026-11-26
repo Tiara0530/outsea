@@ -1,0 +1,9 @@
+# 代码归属规则：把下面的占位用户名替换成团队真实 GitHub 用户名后，PR 会自动请求对应负责人 review。
+
+*                       @member1-lead
+/backend/               @member1-lead
+/frontend/              @member2-frontend
+/ai-engine/             @member3-ai
+/data-pipeline/         @member4-data
+/deploy/                @member5-devops
+/docs/                  @member1-lead
