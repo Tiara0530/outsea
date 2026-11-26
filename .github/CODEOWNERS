@@ -1,9 +1,15 @@
-# 代码归属规则：把下面的占位用户名替换成团队真实 GitHub 用户名后，PR 会自动请求对应负责人 review。
+# 代码归属规则：PR 会自动请求对应负责人 review。
+# 角色映射；如需调整，直接改本文件即可。
+# 成员1 组长·后端      = Tiara0530
+# 成员2 前端           = Beauivigo
+# 成员3 AI 匹配引擎     = mosalaa14
+# 成员4 数据/评测       = 19207184964
+# 成员5 测试/部署/交付   = cyj89266
 
-*                       @member1-lead
-/backend/               @member1-lead
-/frontend/              @member2-frontend
-/ai-engine/             @member3-ai
-/data-pipeline/         @member4-data
-/deploy/                @member5-devops
-/docs/                  @member1-lead
+*                        @Tiara0530
+/backend/                @Tiara0530
+/frontend/               @Beauivigo
+/ai-engine/              @mosalaa14
+/data-pipeline/          @19207184964
+/deploy/                 @cyj89266
+/docs/                   @Tiara0530
