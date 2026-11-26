@@ -145,8 +145,8 @@ def run_demo():
 def main():
     _load_samples()
     port = 8000
+    print("Outsea backend running at http://127.0.0.1:%d" % port, flush=True)
     HTTPServer(("127.0.0.1", port), Handler).serve_forever()
-    print("Outsea backend running at http://127.0.0.1:8000")
 
 
 if __name__ == "__main__":
