@@ -1,0 +1,2 @@
+# 初始版：纯 Python 标准库，零第三方依赖，直接 python main.py 运行。
+# 后续可迁移到 FastAPI： pip install fastapi uvicorn
